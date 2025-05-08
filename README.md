@@ -93,7 +93,7 @@ In this example:
 ## 📷 Screenshots
 
 <!-- Add screenshots here when available -->
-![Duck Simulator Screenshot](https://via.placeholder.com/800x600.png?text=Duck+Simulator+Screenshot)
+![Duck Simulator Screenshot](Ducks/ScreenShots.png)
 
 ## 🔄 Class Diagram
 
